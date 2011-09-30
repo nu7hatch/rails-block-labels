@@ -1,5 +1,3 @@
-require 'rails'
-
 class ActionView::Helpers::InstanceTag
   def to_label_tag(text = nil, options = {}, &block)
     options = options.stringify_keys

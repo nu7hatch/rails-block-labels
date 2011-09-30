@@ -1,11 +1,8 @@
 # -*- ruby -*-
-$LOAD_PATH.unshift(File.expand_path('../lib', __FILE__))
-require 'shaven/version'
-
 Gem::Specification.new do |s|
   s.name              = "rails-block-labels"
   s.rubyforge_project = "RailsBlockLabels"
-  s.version           = "0.0.1"
+  s.version           = "0.0.2"
   s.authors           = ["Chris Kowalik"]
   s.email             = ["chris@nu7hat.ch"]
   s.homepage          = "http://github.com/nu7hatch/rails-block-labels"

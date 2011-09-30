@@ -1,1 +1,1 @@
-require 'rails_block_labels'
+require 'rails/block/labels'
